@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @assanbayg
-- 👀 I’m interested in programming, drawing and Pokemon
+- 👀 I’m interested in Mobile Development and Pokemon
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: g_assanbay (inst)
 
 <!---
