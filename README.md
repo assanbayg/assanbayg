@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @assanbayg
+- 👋 Hi, I’m a Person
 - 👀 I’m interested in Mobile Development and Pokemon
 - 🌱 I’m currently learning Dart/Flutter
-- 📫 How to reach me: g_assanbay (inst)
+- 📫 How to reach me: oblivious_adammyn (inst)
 
 <!---
 assanbayg/assanbayg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
