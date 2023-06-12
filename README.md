@@ -7,7 +7,6 @@
   <li>🎮 Huge fan of Pokemon and Disney and Netflix TV Series</li>
   <li>📫 assanbayg in telegram</li>
 </ul>
-<br>
 <h3>My Stack</h3>
 <p><strong>In progress:</strong> Flutter, React, Next, FastAPI</p>
 
