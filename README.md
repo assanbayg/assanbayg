@@ -1,4 +1,4 @@
-# Hi there, I'm [Gauhar] 👋
+# Hi there, I'm Gauhar 👋
 
 I'm a junior high school student at NIS, with a passion for mobile and web programming. I aspire to become a skilled developer and have a strong interest in integrating AI and other cutting-edge technologies into my projects.
 
@@ -10,7 +10,7 @@ I'm a junior high school student at NIS, with a passion for mobile and web progr
 
 ## Projects
 
-- 🔧 Currently working on [dselect], an app that combines Generative AI and Healthcare.
+- 🔧 Currently working on [dselect](https://github.com/assanbayg/dselect), an app that combines Generative AI and Healthcare.
 - 🌐 Check out my [GitHub Repositories](https://github.com/assanbayg) for more projects and contributions.
 
 ## Future Plans
