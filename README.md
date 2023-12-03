@@ -2,7 +2,7 @@
 - mobile development
 - web development
 - generative ai
-- friendly person you can invite on hackathons and projects 😄
+- friendly person you can invite to hackathons and projects 😄
 
 ## Contact Me
 
